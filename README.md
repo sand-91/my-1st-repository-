@@ -1,2 +1,2 @@
 # my-1st-repository-
-Conversion of Indian Rupees to American dollars 
+My 1st respository is about simple python programme which convert Indian Rupees to American Dollars. 
